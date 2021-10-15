@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maridot
 - 👀 I’m interested in Go!Animate
 - 🌱 I’m currently learning How to use flash in 2021
-- 💞️ I’m looking to collaborate on Project Platinum (Goanimte LVM)
+- 💞️ I’m looking to collaborate on Project Platinum (now Go!Animate Fun-sized)
 - 📫 How to reach me: Maridot64 (instagram)
 
 <!---
